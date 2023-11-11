@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        @apply bg-[#FFD28F]
+    }
+    h1 {
+        @apply font-agbalumo text-5xl pb-2 text-center
+    }
+}
